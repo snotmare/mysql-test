@@ -4,7 +4,7 @@ import { createConnection } from 'mysql2';
 const connection = createConnection({
 	host: 'localhost',
 	user: 'root',
-	password: 'Dragon!12',
+	password: '****',
 	database: 'world'
 });
 
